@@ -1,7 +1,6 @@
 # BRANCHES ARE COOL
 
 ### true story
-#### arent they
 
 # arent they
 
